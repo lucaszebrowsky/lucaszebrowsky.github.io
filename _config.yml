@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Lucas Zebrowsky # the main title
 
-tagline: Software Develoepr from Luxembourg 🇱🇺 # it will display as the subtitle
+tagline: Software Developer from Luxembourg 🇱🇺 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
     A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -35,8 +35,8 @@ social:
     email: zebrowskylucas@proton.me # change to your email address
     links:
         # The first element serves as the copyright owner's link
-        - https://mastodon.social/@Lu_Die_Milchkuh
         - https://github.com/lucaszebrowsky # change to your GitHub homepage
+        - https://mastodon.social/@Lu_Die_Milchkuh
         - https://www.linkedin.com/in/lucas-zebrowsky
 
 # Site Verification Settings
