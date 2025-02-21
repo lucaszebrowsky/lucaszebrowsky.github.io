@@ -42,9 +42,10 @@ To get Chippy-8 up and running, please refer to the full instructions on the [Gi
 ## In Action
 Here’s a glimpse of the emulator running:
 
-![Chippy8 playing Space Invaders](/videos/chippy8/chipp8-spaceinvaders.webm)
+<video src="/videos/chippy8/chipp8-spaceinvaders.webm" controls autoplay loop style="max" width="100%"></video>
 
-Some more screenshots of Chipp8 in action:
+Some more screenshots of Chippy8 in action:
+
 ![Screenshot 1](/img/chippy8/chipp8-spaceinvaders.png)
 ![Screenshot 2](/img/chippy8/chippy8-ibm.png)
 
