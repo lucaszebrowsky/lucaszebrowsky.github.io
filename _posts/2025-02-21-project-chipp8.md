@@ -33,8 +33,6 @@ This project was a great way to deepen my knowledge of low-level programming, sy
 - **Optimized Performance**: Efficient and lightweight design suitable for low-resource environments.
 - **Keyboard Input**: Emulates keyboard interaction for Chip 8 games.
 
-The project demonstrates my proficiency in **C programming**, **SDL2**, and **performance optimization**.
-
 ## How to Run
 
 To get Chippy-8 up and running, please refer to the full instructions on the [GitHub repository](https://github.com/lucaszebrowsky/Chippy-8). There, you'll find the steps to install, build, and run the emulator on different platforms (Windows, macOS, and Linux).

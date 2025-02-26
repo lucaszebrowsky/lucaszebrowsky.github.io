@@ -1,8 +1,11 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
+
+> **Note:** I am currently looking for a **job** (in-house or remote). If you'd like to get in contact, please scroll to the bottom of this page to find my contact information.  
+{: .prompt-tip }
 
 > "An idiot admires complexity. A genius admires simplicity"
 >
@@ -26,10 +29,13 @@ This website is my personal space to share projects, thoughts, and musings on re
 - **Frameworks:** VueJS, QT, Springboot, Laravel
 - **Databases:** MySQL, PostgreSQL
 - **Tech-Stack:** Git, Docker, Podman, CMake
-- **Virtualization:** Git, Docker/Podman, Qemu/KVM,
+- **Virtualization:** VMWare,Virtualbox,Hyper-V,Qemu/KVM,
 - **Operating Systems:** Primarily Linux (my main development environment), MacOS, Windows
 
 # Other Interests
+- **History:** I'm fascinated by history and enjoy learning about different cultures, events, and the lessons we can draw from the past.
+- **Animals:** I have a deep love for animals, and I’m a proud cat parent to four wonderful cats.
+- **Nature & Outdoor Walks:** I find peace in nature and love going for walks to unwind and clear my mind. There's something refreshing about being outdoors and connecting with the world around me.
 
 # Contact
 I'm always open to collaborating, exchanging ideas, or just talking about tech, retro computing, or cats! Feel free to reach out to me if you’re interested in any of these topics, or if you simply want to chat!
