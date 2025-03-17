@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> **Note:** I am currently looking for a **job** (in-house or remote). If you'd like to get in contact, please scroll to the bottom of this page to find my contact information.  
-{: .prompt-tip }
-
 > "An idiot admires complexity. A genius admires simplicity"
 >
 > -- <cite>Terry A. Davis, Creator of TempleOS</cite>
